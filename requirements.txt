@@ -1,0 +1,6 @@
+pandas
+openpyxl
+reportlab
+arabic-reshaper
+python-bidi
+Pillow
